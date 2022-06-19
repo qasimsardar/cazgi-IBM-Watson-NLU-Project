@@ -1,6 +1,5 @@
 # Byte-compiled / optimized / DLL files
 
-.vscode
 
 __pycache__/
 *.py[cod]
@@ -130,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
